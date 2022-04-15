@@ -5,5 +5,5 @@ The environment, especially water, gets polluted due to industrialization and ur
 
 **Outline of System**<br>
 Figure shows the block diagram of the system. Input, output, and an Arduino UNO microcontroller board make up the system.
-<img src = "https://github.com/Shakib-IO/Water_Quality_Monitoring/blob/main/figures/Fig.%201.jpg">
+<img src = "https://static-01.hindawi.com/articles/jhe/volume-2022/3769965/figures/3769965.fig.001.svgz">
 
