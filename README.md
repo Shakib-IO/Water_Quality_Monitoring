@@ -9,6 +9,6 @@ Figure shows the block diagram of the system. Input, output, and an Arduino UNO 
 <img src = "https://static-01.hindawi.com/articles/jhe/volume-2022/3769965/figures/3769965.fig.001.svgz">
 
 **Working Process FlowChart**
-The Arduino program’s flowchart is displayed in this Figure. The Arduino software brings together the various functionality for the various sensors and Bluetooth modules that connect the Arduino UNO to the mobile application.
-<br>
-<img src = "https://static-01.hindawi.com/articles/jhe/volume-2022/3769965/figures/3769965.fig.0012.svgz"
+The Arduino program’s flowchart is displayed in this Figure. The Arduino software brings together the various functionality for the various sensors and Bluetooth modules that connect the Arduino UNO to the mobile application.<br>
+
+<img src = "https://static-01.hindawi.com/articles/jhe/volume-2022/3769965/figures/3769965.fig.0012.svgz">
